@@ -1,0 +1,29 @@
+body {
+  color: #AC4400;
+  background: #E6C48E;
+}
+
+h1 {
+  background: #fff;
+  color: #664611;
+}
+
+p {
+  color: #54390E;
+  max-width: 70ch;
+}
+
+#map {
+  border: 5px solid #54390E;
+  height: 440px;
+}
+
+#map2 {
+  border: 5px solid #54390E;
+  height: 500px;
+}
+
+footer {
+  background: #fff;
+  color: #54390E;
+}
